@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UMaT Services | AM .K ASSOCIATES</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+</head>
+<body class="selection-body">
+
+    <nav>
+        <div class="logo">AM <span class="dot">.</span>K <span class="campus-tag">UMaT</span></div>
+        <a href="choice.html" class="back-link">← CHANGE SCHOOL</a>
+    </nav>
+
+    <section class="services-section">
+        <div class="container">
+            <h2 class="section-title">OUR SERVICES</h2>
+            <p class="service-intro">Professional solutions for the University of Mines and Technology community.</p>
+
+            <div class="services-list">
+                <div class="service-item">
+                    <div class="service-header">
+                        <span class="service-icon">01</span>
+                        <h3>ACADEMIC CONSULTING</h3>
+                    </div>
+                    <p>Expert guidance on technical reporting, project structure, and academic excellence strategies.</p>
+                </div>
+
+                <div class="service-item">
+                    <div class="service-header">
+                        <span class="service-icon">02</span>
+                        <h3>PROJECT DEFENSE PREP</h3>
+                    </div>
+                    <p>Specialized coaching for final year defenses and oral presentations to faculty boards.</p>
+                </div>
+
+                <div class="service-item">
+                    <div class="service-header">
+                        <span class="service-icon">03</span>
+                        <h3>RESEARCH & DATA</h3>
+                    </div>
+                    <p>Assistance in data collection methodologies and professional research formatting.</p>
+                </div>
+            </div>
+
+            <div class="action-box">
+                <p>Need a specific solution?</p>
+                <a href="https://wa.me/233530246444" class="next-btn">REQUEST SERVICE</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 AM .K ASSOCIATES | Tarkwa</p>
+    </footer>
+
+</body>
+</html>
